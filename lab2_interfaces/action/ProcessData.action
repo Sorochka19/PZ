@@ -1,0 +1,5 @@
+string[] input_data
+---
+bool success
+---
+float32 progress
